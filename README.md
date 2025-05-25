@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">A passionate fullstack developer from Kurdistan <br>
+<h2 align="center">A passionate ai  developer from Kurdistan <br>
 </h2>
 
 # 📊 GitHub Stats:
