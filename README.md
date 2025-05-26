@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sarmand farhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyar jahbe" height="30" width="40" /></a>
-<a href="https://web.facebook.com/sarmand farhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diyar jahbi saedo" height="30" width="40" /></a>
-<a href="https://instagram.com/sarmand farhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyar_jahbe_saedo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarmand-farhad-4a858a2b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyar jahbe" height="30" width="40" /></a>
+<a href="https://web.facebook.com/sarmand.farhad.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diyar jahbi saedo" height="30" width="40" /></a>
+<a href="https://instagram.com/sarmand_farhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyar_jahbe_saedo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
