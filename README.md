@@ -1,6 +1,4 @@
 
-<h1 align="left">Hi 👋! My name is sarmand <br>
- I'm a Software Engineer, from Kurdistan</h1>
 
 ###
 
@@ -9,7 +7,6 @@
 <h2 align="center">A passionate ai  developer from Kurdistan <br>
 </h2>
 
-# 📊 GitHub Stats:
 
 
 
@@ -34,7 +31,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=sarmandfarhad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
