@@ -4,8 +4,6 @@
 
 ###
 
-<h2 align="center">A passionate ai  developer from Kurdistan <br>
-</h2>
 
 
 
@@ -29,7 +27,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+
 
 
 
